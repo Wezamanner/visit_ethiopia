@@ -473,7 +473,7 @@ background-size: cover;
     font-size: 0.7em;
 }
 
-@media (max-width: 630px) {
+@media (max-width: 768px) {
     .toggleButton{
         display: block;
         position: absolute;
